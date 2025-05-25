@@ -9,16 +9,16 @@ I'm just starting out, but I'm passionate about:
 - Exploring automotive and aerospace engineering
 
 
-### 🌱 I'm currently learning
+### I'm currently learning
 - Python & Git basics
 - Car mechanics 
 - Automotive systems + hardware fundamentals
 
 
-### 🧠 Tech Skills
+### Tech Skills
 - **Languages:** Python (beginner), C (learning)
 - **Tools:** Git, VS Code, Google Sheets
 
 
-### 📬 How to reach me
+### How to reach me
 - Email: thapapak.b@gmail.com
